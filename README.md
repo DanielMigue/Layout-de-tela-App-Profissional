@@ -11,17 +11,13 @@ de voltar para tela principal ou voltar para a tela 4. Segue abaixo a captura de
 
 Tela Inicial:
 ![image](https://github.com/user-attachments/assets/ee34d220-b457-4672-950a-7e53c57538c4)
-
-Tela 2: 
+ 
 ![image](https://github.com/user-attachments/assets/26bbc185-37e9-4ba6-a122-5b8c0b252e88)
 
-Tela 3:
 ![image](https://github.com/user-attachments/assets/507d3882-a725-4b8d-b5d6-e889cbf0210e)
 
-Tela 4:
 ![image](https://github.com/user-attachments/assets/c422b9cf-25ef-45b2-bddd-94e2038d346b)
 
-Tela 5:
 ![image](https://github.com/user-attachments/assets/ffdcf317-be26-4063-8780-d83eecd9f5d5)
 
 
