@@ -6,8 +6,12 @@ Layout desenvolvido com o objetivo de aprender a usar o ConstraintLayout
 
 Navegação entre Telas
 Tela Inicial:
-![image](https://github.com/user-attachments/assets/25a88390-5bfb-4dac-a568-f1aa2bfc3207)
-![image](https://github.com/user-attachments/assets/45a409f6-51e8-4c81-88b4-5c446a9f5097)
+![image](https://github.com/user-attachments/assets/ee34d220-b457-4672-950a-7e53c57538c4)
+
+
+Tela 2: 
+![image](https://github.com/user-attachments/assets/26bbc185-37e9-4ba6-a122-5b8c0b252e88)
+
 
 
 
